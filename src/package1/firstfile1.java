@@ -9,5 +9,7 @@ public class firstfile1 {
 		System.out.println("developer 1 pushed");
 		
 		System.out.println("new requirement code");
+		
+		System.out.println("Merge with master");
 	}
 }
