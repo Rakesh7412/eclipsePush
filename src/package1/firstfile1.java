@@ -4,12 +4,9 @@ public class firstfile1 {
 	
 	public static void main(String[] args) {
 		
-		System.out.println("First eclipse push1");
+		System.out.println("Test case 1");
 		
-		System.out.println("developer 1 pushed");
+		System.out.println("User 1");
 		
-		System.out.println("new requirement code");
-		
-		System.out.println("Merge with master");
 	}
 }
